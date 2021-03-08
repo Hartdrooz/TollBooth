@@ -22,6 +22,8 @@ using Microsoft.WindowsAzure.Storage.Blob;
 using Newtonsoft.Json.Linq;
 using TollBooth.Models;
 
+
+
 namespace TollBooth
 {
     public static class ProcessImage
